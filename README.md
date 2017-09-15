@@ -20,3 +20,5 @@ To speed it up, this tool should make me able to skip steps 4-8 by:
   * Post it in a memo field in the application form pretty-printed
   * Show the window in front
   * Scroll the memo field to the top
+
+Sometimes there is another step, in which the XML data is BASE64-encoded. If these cases were supported, a couple more steps could be saved. (--> TODO)
